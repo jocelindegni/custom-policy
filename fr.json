@@ -1,0 +1,16 @@
+{
+  "common__title": "Portail utilisateur | TISSOT® France",
+  "common__logout": "Déconnexion",
+  "connection__title": "CONNEXION",
+  "connection__with-email": "PAR EMAIL",
+  "connection__with-huawei": "CONNEXION AVEC HUAWEI",
+  "connection__with-wechat": "CONNEXION AVEC WECHAT",
+  "connection__with-mobile-number": "PAR NUMERO DE MOBILE",
+  "error-message__not-found-message": "Fichier non trouvé",
+  "error-message__technical-error-message": "Une erreur est survenue. Veuillez réessayer ultérieurement",
+  "error-message__user-not-found-message": "Pas de compte relié à votre compte {{ accountType }}, veuillez vous connecter avec {{ accountType }} sur l'application mobile d'abord. ",
+  "personal-data-download__download-file-button": "TELECHARGER MES DONNEES PERSONNELLES",
+  "personal-data-download_generate-file-button": "Générer le fichier",
+  "personal-data-download__in-progress-message": "Nous préparons le fichier de vos données personnelles, cela peut prendre quelques minutes",
+  "personal-data-download__title": "JE SOUHAITE TELECHARGER MES DONNEES PERSONNELLES"
+}

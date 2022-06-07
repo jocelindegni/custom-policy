@@ -1,0 +1,17 @@
+
+{
+  "common__title": "User portal | TISSOT® France",
+  "common__logout": "Log out",
+  "connection__title": "SIGN IN",
+  "connection__with-email": "USING EMAIL",
+  "connection__with-huawei": "SIGN IN USING HUAWEI",
+  "connection__with-wechat": "SIGN IN USING WECHAT",
+  "connection__with-mobile-number": "USING MOBILE PHONE NUMBER",
+  "error-message__not-found-message": "File not found",
+  "error-message__technical-error-message": "An error has occurred. Please try again later",
+  "error-message__user-not-found-message": "No account found based on your {{ accountType }} account, please sign-in with {{ accountType }} on the mobile app first.",
+  "personal-data-download__download-file-button": "DOWNLOAD MY PERSONAL DATA",
+  "personal-data-download_generate-file-button": "GENERATE FILE",
+  "personal-data-download__in-progress-message": "We are preparing your personal data file; this may take a few minutes",
+  "personal-data-download__title": "I WANT TO DOWNLOAD MY PERSONAL DATA"
+}
